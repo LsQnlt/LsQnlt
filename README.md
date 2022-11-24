@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Louis Quenault</h1>
 <h3 align="center">Junior dev fresh out from Le Wagon (batch #758)</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Typing Ruby ♦️ with Sorbet 🍦**
 
 - 📫 How to reach me **louis.quenault@laposte.net**
 
