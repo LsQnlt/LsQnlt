@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typing Ruby ♦️ with Sorbet 🍦**
 
-- 📫 How to reach me **louis.quenault@laposte.net**
+- 📫 How to reach me **louis@lasercats.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
