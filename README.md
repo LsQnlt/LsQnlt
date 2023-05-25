@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in [a cooperative corporation name Lasercats](lasercats.fr)
 
-- 🌱 I’m currently learning **Typing Ruby ♦️ with Sorbet 🍦**
+- 🌱 I’m currently learning nextJs13 after learning **Typing Ruby ♦️ with Sorbet 🍦**
 
 - 📝 I regularly write articles on [lasercats.fr/articles](lasercats.fr/articles)
 
