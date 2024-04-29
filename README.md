@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in [a cooperative corporation name Lasercats](lasercats.fr)
 
-- 🌱 I’m currently learning nextJs13 after learning **Typing Ruby ♦️ with Sorbet 🍦**
+- 🌱 I’m currently learning about Layered Design through [Palkan's](https://github.com/palkan) book: [Layred Design for Ruby on Rails Application](https://github.com/PacktPublishing/Layered-Design-for-Ruby-on-Rails-Applications) after learning **Typing Ruby ♦️ with Sorbet 🍦**
 
 - 📝 I regularly write articles on [lasercats.fr/articles](lasercats.fr/articles)
 
