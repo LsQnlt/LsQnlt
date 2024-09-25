@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Louis Quenault</h1>
-<h3 align="center">Ruby on Rails and NextJs dev, alumni of Le Wagon (batch #758)</h3>
+<h3 align="center">Ruby on Rails dev, alumni of Le Wagon (batch #758)</h3>
 
 - 🔭 I’m currently working in [a cooperative corporation name Lasercats](lasercats.fr)
 
