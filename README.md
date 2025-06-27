@@ -6,7 +6,7 @@
 - 🌱 I'm currently delving into Rails 8 with [Sam Ruby's](https://en.wikipedia.org/wiki/Sam_Ruby) book: [Agile Web Development with Rails 8
 ](https://pragprog.com/titles/rails8/agile-web-development-with-rails-8/) after reading [Palkan's](https://github.com/palkan) book: [Layred Design for Ruby on Rails Application](https://github.com/PacktPublishing/Layered-Design-for-Ruby-on-Rails-Applications) and learning **Typing Ruby ♦️ with Sorbet 🍦**
 
-- 📝 I regularly write articles on [lasercats.fr/articles](https://lasercats.fr/articles)
+- 📝 I regularly write articles on [lasercats.fr/blog](https://lasercats.fr/blog)
 
 - 📫 How to reach me **louis@lasercats.fr**
 
